@@ -38,7 +38,7 @@ function App() {
 
   return (
     <div>
-      <h1>RegEx tester by IgMiras & GMenezess</h1>
+      <h1>RegEx tester by IgMiras & GMenezes & LHSerafim</h1>
       <h2>RegEx Rule</h2>
       <input 
         type="text" 
